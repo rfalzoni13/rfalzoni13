@@ -20,5 +20,12 @@ Sou apaixonado por tecnologia, vídeo games e animes. Como um bom noventista, eu
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rfalzoni13&layout=compact&langs_count=7&custom_title=My%20Languages&theme=dark&card_width=500"/>
 </div>
 
+#
+### Me siga nas redes sociais
+<div>
+<a href="https://instagram.com/renatofalzoni13" target="_blank"><img width="25em" loading="lazy" src="https://raw.githubusercontent.com/Aakarsh-B/trying-repos/master/insta.svg" target="_blank"></a>
+<a href="https://www.linkedin.com/in/renato-falzoni" target="_blank"><img width="25em" loading="lazy" src="https://raw.githubusercontent.com/Aakarsh-B/trying-repos/master/linkedin.svg" target="_blank"></a>   
+</div>
+
           
           
