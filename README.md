@@ -23,8 +23,8 @@ Sou apaixonado por tecnologia, vídeo games e animes. Como um bom noventista, eu
 #
 ### Me siga nas redes sociais
 <div>
-<a href="https://instagram.com/renatofalzoni13" target="_blank"><img width="25em" loading="lazy" src="https://raw.githubusercontent.com/Aakarsh-B/trying-repos/master/insta.svg" target="_blank"></a>
-<a href="https://www.linkedin.com/in/renato-falzoni" target="_blank"><img width="25em" loading="lazy" src="https://raw.githubusercontent.com/Aakarsh-B/trying-repos/master/linkedin.svg" target="_blank"></a>   
+<a href="https://instagram.com/renatofalzoni13" target="_blank"><img width="25em" loading="lazy" src="https://raw.githubusercontent.com/Aakarsh-B/trying-repos/master/insta.svg"></a>
+<a href="https://www.linkedin.com/in/renato-falzoni" target="_blank"><img width="25em" loading="lazy" src="https://raw.githubusercontent.com/Aakarsh-B/trying-repos/master/linkedin.svg"></a>   
 </div>
 
           
